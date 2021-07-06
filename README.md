@@ -17,7 +17,7 @@ To train the model - `python3 mineral-detection.py`
 # Model Architecture
 <div align="center">
 
-![image](assets/final.h5.png)
+  <img src = "assets/final.h5.png">
 
 </div>
 
