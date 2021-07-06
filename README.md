@@ -25,7 +25,7 @@ To train the model - `python3 mineral-detection.py`
 # Running the model 
 
 Requirements (Optional for just using the API):
-```ruby
+```
 
 torch==1.8.1+cpu
 torchvision==0.9.1+cpu
@@ -50,7 +50,7 @@ Follow these steps:
 
 Sample output:
 
-```ruby
+```
 python3 send.py --path="/home/anshul/data/chrysocolla/0003.jpg"
 
 {'Class_Name': 'chrysocolla'}
